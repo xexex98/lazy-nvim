@@ -1,8 +1,5 @@
 {
-  "extras": [
-    "lazyvim.plugins.extras.formatting.prettier",
-    "lazyvim.plugins.extras.lang.tailwind"
-  ],
+  "extras": [],
   "news": {
     "NEWS.md": "2123"
   },
